@@ -8,15 +8,15 @@ Source: Kaggle
 
 The major steps involved are:
 
-Data Collection
+1.Data Collection
 
-Data Pre-processing
+2.Data Pre-processing
 
-Feature Engineering
+3.Feature Engineering
 
-Model Selection
+4.Model Selection
 
-Model Analysis
+5.Model Analysis
 
 
 Major package - LIBROSA:
