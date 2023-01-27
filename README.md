@@ -32,8 +32,11 @@ Data Pre-processing:
 Check null values and proper indexing to extract features
 
 Feature Engineering:
+
 1.Feature Extraction - It includes the spectral features centroid, bandwidth, rolloff and Mel frequency cepstral coefficients
+
 2.Feature Transformation - Feature scalability, Encoding
+
 3.Feature Selection - ANOVA (ANalysis Of VAriance)
 
 Model Selection:
