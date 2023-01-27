@@ -9,9 +9,13 @@ Source: Kaggle
 The major steps involved are:
 
 Data Collection
+
 Data Pre-processing
+
 Feature Engineering
+
 Model Selection
+
 Model Analysis
 
 
